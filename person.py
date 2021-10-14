@@ -14,3 +14,6 @@ Age:  {self.age}
 
 evans = Person("Evans", 29)
 jane = Person("Jane", 32)
+
+evans.person_details_printer()
+jane.person_details_printer()
