@@ -1,4 +1,4 @@
-import person as p
+from classes import person as p
 
 
 class Student(p.Person):

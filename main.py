@@ -1,4 +1,4 @@
-import student as s
+from classes import student as s
 
 
 def create_student():
