@@ -8,12 +8,7 @@ class Person:
     def person_details_printer(self):
         print(f"""
 Name: {self.name}
-Age:  {self.age}
-        """)
+Age:  {self.age} """)
 
 
-evans = Person("Evans", 29)
-jane = Person("Jane", 32)
 
-evans.person_details_printer()
-jane.person_details_printer()
